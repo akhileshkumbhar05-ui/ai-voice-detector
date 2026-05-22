@@ -1,5 +1,5 @@
 
-# AI Voice Detector — Human vs AI Speech (Hack-Ready)
+# AI Voice Detector — Human vs AI Speech
 
 **Goal:** Detect whether an audio clip is **AI-generated or human** in real time, with an **explainable heatmap** over the spectrogram and **(optional) provenance check** via ElevenLabs API.
 
