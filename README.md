@@ -12,7 +12,7 @@ The project also includes scripts for generating AI speech clips with ElevenLabs
 Try the deployed app here: [Voice Guard on Hugging Face Spaces](https://huggingface.co/spaces/varunkul/Voice-guard)
 
 ---
-## Team / Contributors
+## Team
 
 - [Akhilesh Kumbhar](https://github.com/akhileshkumbhar05-ui)
 - [Varun Kulkarni](https://github.com/varun-kul)
