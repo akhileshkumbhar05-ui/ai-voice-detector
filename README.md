@@ -9,6 +9,8 @@ AI Voice Detector is a hackathon-style machine learning project that detects whe
 
 The project also includes scripts for generating AI speech clips with ElevenLabs, converting MP3 files to 16 kHz WAV format, training a PyTorch CNN classifier, and running an interactive Gradio web demo.
 
+Try the deployed app here: [Voice Guard on Hugging Face Spaces](https://huggingface.co/spaces/varunkul/Voice-guard)
+
 ---
 
 ## Project Goal
