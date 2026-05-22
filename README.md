@@ -12,7 +12,13 @@ The project also includes scripts for generating AI speech clips with ElevenLabs
 Try the deployed app here: [Voice Guard on Hugging Face Spaces](https://huggingface.co/spaces/varunkul/Voice-guard)
 
 ---
+## Team / Contributors
 
+- [Akhilesh Kumbhar](https://github.com/akhileshkumbhar05-ui)
+- [Varun Kulkarni](https://github.com/varun-kul)
+- [Hritik Patil](https://github.com/Hritik827)
+
+---
 ## Project Goal
 
 The goal of this project is to build a lightweight, explainable AI voice detection system that can classify short audio clips as either:
